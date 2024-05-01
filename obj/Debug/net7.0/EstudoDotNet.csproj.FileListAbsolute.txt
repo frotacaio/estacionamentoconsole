@@ -1,0 +1,15 @@
+C:\Users\caio_\Desktop\EstudoDotNet\bin\Debug\net7.0\EstudoDotNet.exe
+C:\Users\caio_\Desktop\EstudoDotNet\bin\Debug\net7.0\EstudoDotNet.deps.json
+C:\Users\caio_\Desktop\EstudoDotNet\bin\Debug\net7.0\EstudoDotNet.runtimeconfig.json
+C:\Users\caio_\Desktop\EstudoDotNet\bin\Debug\net7.0\EstudoDotNet.dll
+C:\Users\caio_\Desktop\EstudoDotNet\bin\Debug\net7.0\EstudoDotNet.pdb
+C:\Users\caio_\Desktop\EstudoDotNet\obj\Debug\net7.0\EstudoDotNet.csproj.AssemblyReference.cache
+C:\Users\caio_\Desktop\EstudoDotNet\obj\Debug\net7.0\EstudoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio_\Desktop\EstudoDotNet\obj\Debug\net7.0\EstudoDotNet.AssemblyInfoInputs.cache
+C:\Users\caio_\Desktop\EstudoDotNet\obj\Debug\net7.0\EstudoDotNet.AssemblyInfo.cs
+C:\Users\caio_\Desktop\EstudoDotNet\obj\Debug\net7.0\EstudoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\caio_\Desktop\EstudoDotNet\obj\Debug\net7.0\EstudoDotNet.dll
+C:\Users\caio_\Desktop\EstudoDotNet\obj\Debug\net7.0\refint\EstudoDotNet.dll
+C:\Users\caio_\Desktop\EstudoDotNet\obj\Debug\net7.0\EstudoDotNet.pdb
+C:\Users\caio_\Desktop\EstudoDotNet\obj\Debug\net7.0\EstudoDotNet.genruntimeconfig.cache
+C:\Users\caio_\Desktop\EstudoDotNet\obj\Debug\net7.0\ref\EstudoDotNet.dll
